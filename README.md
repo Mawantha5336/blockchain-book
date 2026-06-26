@@ -1,6 +1,5 @@
 # Learn Blockchain by Building One
 
-This is the full source code for my book, [Learn Blockchain by Building One](https://www.amazon.com/Learn-Blockchain-Building-Understanding-Cryptocurrencies/dp/1484251709/ref=sr_1_3?crid=1TB6LKK9INSJC&dchild=1&keywords=learn+blockchain+by+building+one&qid=1613493701&sprefix=learn+blockchain+%2Caps%2C144&sr=8-3) (Apress / Amazon).
 
 Please submit any issues found in the code here: https://github.com/dvf/blockchain-book/issues
 
