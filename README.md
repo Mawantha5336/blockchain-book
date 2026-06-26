@@ -1,9 +1,6 @@
 # Learn Blockchain by Building One
 
 
-Please submit any issues found in the code here: https://github.com/dvf/blockchain-book/issues
-
-And if I haven't responded to them, please get my attention at hi@dvf.nyc and I'll do my best to help you out.
 
 # The Code
 
